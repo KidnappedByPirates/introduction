@@ -1,5 +1,10 @@
-# KidnappedByPirates
+---
+output:
+	revealjs::revealjs_presentation:
+	transition: convex
+---
 
+# KidnappedByPirates
 
 
 ## Once Upon A Time...
