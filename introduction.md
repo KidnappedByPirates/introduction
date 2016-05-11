@@ -1,7 +1,6 @@
 # KidnappedByPirates
 
-<!-- .slide: data-transition="convex" -->
-## Once Upon A Time...
+## Once Upon A Time...  { data-transition="convex" }
 
 because that is how every story should start
 
