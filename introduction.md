@@ -1,12 +1,6 @@
----
-output:
-	revealjs::revealjs_presentation:
-	transition: convex
----
-
 # KidnappedByPirates
 
-
+<!-- .slide: data-transition="convex" -->
 ## Once Upon A Time...
 
 because that is how every story should start
